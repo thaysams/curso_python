@@ -1,4 +1,4 @@
-# Jogo de letras que mais apararece
+# Jogo de letras que mais aparece
 
 frase = 'Leaving like a father. '\
         'Running like water'.lower()
